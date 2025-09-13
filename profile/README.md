@@ -1,4 +1,5 @@
-<img width="250" height="250" alt="Wentworth Institute of Technology Logo" src="https://github.com/user-attachments/assets/d1855d94-0ae3-47bf-8a20-e0784beb6093" />
+<img width="225" height="225" alt="wit2" src="https://github.com/user-attachments/assets/55d6108e-20ba-4f6b-85f8-2dbcc3a9f156" />
+
 
 # Welcome to WITCC! 
 
